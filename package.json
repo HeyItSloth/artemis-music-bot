@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.16.3",
+    "ffmpeg-static": "^5.2.0",
+    "nodemon": "^3.1.7"
+  },
+  "name": "artemis-music-bot",
+  "version": "1.0.0",
+  "description": "A new music bot",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^9.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyItSloth/artemis-music-bot.git"
+  },
+  "author": "Sloth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeyItSloth/artemis-music-bot/issues"
+  },
+  "homepage": "https://github.com/HeyItSloth/artemis-music-bot#readme"
+}
